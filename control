@@ -1,0 +1,9 @@
+Package: com.anody.mycrackdemo
+Name: MyCrackDemo
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: 王林
+Author: 王林
+Section: Tweaks
